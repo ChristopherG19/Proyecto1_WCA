@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: url('https://www.worldcubeassociation.org/packs/media/images/homepage_banner-46ca54a95f202fd9cb69e83bbf8d7381.svg') no-repeat center center fixed;
+	background-size: 100%;
+}
+
+
