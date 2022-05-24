@@ -6,8 +6,19 @@
 
 body {
 	background: url('https://www.worldcubeassociation.org/packs/media/images/homepage_banner-46ca54a95f202fd9cb69e83bbf8d7381.svg') no-repeat center center fixed;
-	background-size: 100%;
-	
+	background-size: cover;
+	font-family: Roboto,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    font-size: 14px;
+	background-color: #f8f8f8;
 }
+
+.footer-segment{
+    background-color: #f8f8f8;
+	height: 100%;
+	width: 100%;
+
+}
+
+
 
 
